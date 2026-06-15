@@ -1,4 +1,4 @@
-<h1>Hey there, I'm <a  href="https://github.com/GastonMarenco/">Gaston Marenco </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hey there, I'm <a  href="https://github.com/KoCodeTech">Gastón Marenco </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 Soy un estudiante de la Tecnicatura Universitaria en Programacion en la UTN
 
@@ -10,4 +10,4 @@ Soy un estudiante de la Tecnicatura Universitaria en Programacion en la UTN
 <br>
 <br>
 
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=GastonMarenco&theme=dark&hide_border=false" width = 500>
+<img src = "https://github-readme-streak-stats.herokuapp.com?user=KoCodeTech&theme=dark&hide_border=false" width = 500>
